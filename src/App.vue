@@ -84,6 +84,7 @@ function VideoEndDownload() {
       <select class="mr-2" v-model="type">
         <option value="Repair_">Repair</option>
         <option value="OK_">OK</option>
+        <option value="蝦皮_">蝦皮</option>
         <option value="711_">711</option>
         <option value="Family_">Family</option>
       </select>
